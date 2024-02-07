@@ -1,0 +1,8 @@
+list the call with call_id is 271354
+list all the calls with call_duration is more than 5 minutes
+list all the calls handled by agent Nina Walsh
+list all the calls where the agent greeted the customer properly in the start of the call
+list all the calls where the agent checked at least 2 security questions
+list all the calls where the agent did not greet the customer properly in the start of the call
+list all the calls where the agent did not check at least 2 security questions
+list all the calls where the agent did not greet the customer properly in the start of the call and did not check at least 2 security questions

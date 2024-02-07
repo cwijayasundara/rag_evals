@@ -1,0 +1,13 @@
+langchain==0.0.354
+openai==1.6.1
+chromadb==0.4.22
+streamlit==1.29.0
+python-dotenv
+trulens-eval
+pypdf
+langchain_experimental
+unstructured
+tiktoken
+trulens_eval
+ragas
+llama_index
